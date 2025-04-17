@@ -2,7 +2,7 @@
 
 ## 🏗️ Setup
 - [x] Initialize Git repository
-- [ ] Create basic folder structure
+- [x] Create basic folder structure
 - [ ] Add `.gitignore` file
 - [ ] Set up build tool (Maven/Gradle)
 
