@@ -15,14 +15,14 @@ This is your "get hired" weapon—focus on **problem-solving**, coding patterns,
 
 ### 📌 Phase 2: Core Data Structures
 - [ ] Linked Lists (Singly & Doubly)
-- [ ]Stacks & Queues
+- [ ] Stacks & Queues
 - [ ] Trees (Binary Tree, BST, Trie)
-- [ ]Heaps (Min/Max)
+- [ ] Heaps (Min/Max)
 - [ ] Graphs (BFS, DFS, Dijkstra, Union-Find)
 
 ### 📌 Phase 3: Algorithms
 - [ ] Searching & Binary Search
-- [ ]Greedy Algorithms
+- [ ] Greedy Algorithms
 - [ ] Dynamic Programming
 - [ ] Sliding Window & Two Pointers
 - [ ] Bit Manipulation
